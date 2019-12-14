@@ -1,0 +1,10 @@
+.ball {
+  background-color: black;
+  border-radius: 100rem;
+  height: 40px;
+  width: 40px;
+  transition: transform 2s;
+}
+.rollSmall {
+  transform: translateX(40px);
+}
